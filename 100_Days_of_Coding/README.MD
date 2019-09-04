@@ -5,7 +5,9 @@
 #### Python Basics:
 Contains simple python excercises for the purposes for refreshing from the book: Python Crash Course by Eric Matthes
 [DAY ONE](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%201)
-- Intro, Variables, Data Types
+- Intro, Variables, Data Types, Dictionaries
+- Difficulty *
 
 [DAY TWO](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%201)
-- Dictionaries, Funtions, Classes 
+- Dictionaries,User Input Funtions, Classes 
+- Difficulty *
