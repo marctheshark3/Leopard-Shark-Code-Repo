@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/List&amp;loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/alien_colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/buffet_restaurant_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/car_conditional_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/dict_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/guest_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/user_input_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
