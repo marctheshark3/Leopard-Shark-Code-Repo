@@ -14,7 +14,7 @@ class Restaurant:
         self.number_served = served
     def increment_served(self,step):
         self.number_served += step
-
+''' 
 restaurant = Restaurant('Papa Johns','Pizza')
 
 print(restaurant.restraunt_name)
@@ -33,4 +33,22 @@ jersey_mike.set_number_served(100)
 print(jersey_mike.number_served)
 jersey_mike.increment_served(5)
 print(f"Jersey Mikes has served: {jersey_mike.number_served} guest")
+'''
 
+class IceCreamStand(Restaurant):
+
+    def __init__(self, restraunt_name, cuisine_type):
+        super().__init__(restraunt_name, cuisine_type)
+        self.flavors = ['vanilla', 'chocolate', 'strawberry', 'peanutbutter']
+        self.restau = Restaurant('Marios Ice Cream', 'Ice Cream')
+
+    def get_flavors(self):
+
+        return self.flavors
+'''
+marios_flavors = IceCreamStand('Marios Ice Cream', 'Ice Cream').get_flavors()
+print("Mario's Current Flavors are:")
+for flavor in marios_flavors:
+    print(flavor)
+
+'''
