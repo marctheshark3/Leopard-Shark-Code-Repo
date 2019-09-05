@@ -7,9 +7,9 @@ Contains simple python excercises for the purposes for refreshing from the book:
 [DAY ONE](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%201)
 - 9/3
 - Intro, Variables, Data Types, Dictionaries
-- Difficulty *
+- Difficulty *----
 
 [DAY TWO](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%202)
 - 9/4
 - Dictionaries,User Input Funtions, Classes 
-- Difficulty *
+- Difficulty *----
