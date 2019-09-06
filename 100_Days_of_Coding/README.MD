@@ -13,3 +13,8 @@ Contains simple python excercises for the purposes for refreshing from the book:
 - 9/4
 - Dictionaries,User Input Funtions, Classes 
 - Difficulty *
+
+[DAY Three](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day_3)
+- 9/6
+- Random variables, Reading and Rriting, Exceptions
+- Difficulty *
