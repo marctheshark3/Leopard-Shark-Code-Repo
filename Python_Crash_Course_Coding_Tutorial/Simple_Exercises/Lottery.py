@@ -1,7 +1,7 @@
 from random import choice
 
 
-jackpot = [1, 4, 3, 6, 3,
+ticket = [1, 4, 3, 6, 3,
            5, 8, 9, 7, 0,
            'a', 'x', 'r', 'y', 'p']
 
@@ -16,4 +16,5 @@ def get_numbers(jackpot):
 
 
     print(f"If you number or letters are: {first} ,{second}, {third}, or {fourth} you won!")
-get_numbers(jackpot)
+get_numbers(ticket)
+
