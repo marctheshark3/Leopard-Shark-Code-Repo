@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Airbnb Data Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Project_Gutenberg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/cats and dogs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/fav_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/city_country.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_city_country.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/List&amp;loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/alien_colors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/buffet_restaurant_menu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/car_conditional_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/dict_example.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/guest_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/name_cases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/simple_message.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 1/user_input_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 2/Classes_exercises.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 2/Lottery.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 2/More_classes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 2/dice_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 2/function_city.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 2/more_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_Days_of_Coding/Day 3/Denver_airbnb.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Lottery.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Lottery.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,42 +16,46 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Leopard_Shark_Code_Repo$name_cases.coverage" NAME="name_cases Coverage Results" MODIFIED="1567532664745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Leopard_Shark_Code_Repo$test_employee.coverage" NAME="test_employee Coverage Results" MODIFIED="1567873270820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1905295604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="36" />
+          <entry key="MD" value="1" />
+          <entry key="py" value="47" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="34" />
+          <entry key="Python" value="45" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="87" />
-          <entry key="py" value="12613" />
+          <entry key="Python Console" value="90" />
+          <entry key="py" value="14915" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="12639" />
+          <entry key="Python" value="14944" />
           <entry key="Scratch" value="61" />
         </counts>
       </usages-collector>
@@ -79,31 +64,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/cats and dogs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <marker date="1567799132028" expanded="true" signature="614:643" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Project_Gutenberg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/fav_number.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <marker date="1567804942992" expanded="true" signature="27:32" ph="..." />
               </folding>
@@ -112,21 +76,97 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/exceptions.py">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/city_country.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <marker date="1567798450503" expanded="true" signature="18:19" ph="..." />
-                <marker date="1567798450503" expanded="true" signature="18:24" ph="..." />
+                <marker date="1567870740492" expanded="true" signature="103:108" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/employee.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <marker date="1567875033406" expanded="true" signature="15:16" ph="..." />
+                <marker date="1567875033406" expanded="true" signature="15:21" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/List&amp;loops.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1567874980375" expanded="true" signature="90:95" ph="..." />
+                <marker date="1567874980375" expanded="true" signature="731:823" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/More_classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/dice_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1567637844464" expanded="true" signature="64:93" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_city_country.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1567870732410" expanded="true" signature="87:92" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Classes_exercises.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <marker date="1567636229455" expanded="true" signature="17:18" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/dict_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -168,6 +208,10 @@
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/cats and dogs.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Project_Gutenberg.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/fav_number.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_city_country.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/city_country.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/employee.py" />
       </list>
     </option>
   </component>
@@ -233,45 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fav_number">
-    <configuration name="Lottery" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leopard-Shark-Code-Repo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Lottery.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Project_Gutenberg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leopard-Shark-Code-Repo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Project_Gutenberg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_employee">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cats and dogs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="city_country" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,7 +310,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/cats and dogs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/city_country.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,7 +329,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/exceptions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/employee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,20 +357,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_city_country" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leopard-Shark-Code-Repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_city_country.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leopard-Shark-Code-Repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Lottery" />
-      <item itemvalue="Python.exceptions" />
-      <item itemvalue="Python.cats and dogs" />
-      <item itemvalue="Python.Project_Gutenberg" />
       <item itemvalue="Python.fav_number" />
+      <item itemvalue="Python.city_country" />
+      <item itemvalue="Python.test_city_country" />
+      <item itemvalue="Python.employee" />
+      <item itemvalue="Python.test_employee" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_employee" />
+        <item itemvalue="Python.employee" />
+        <item itemvalue="Python.test_city_country" />
+        <item itemvalue="Python.city_country" />
         <item itemvalue="Python.fav_number" />
-        <item itemvalue="Python.Project_Gutenberg" />
-        <item itemvalue="Python.cats and dogs" />
-        <item itemvalue="Python.exceptions" />
-        <item itemvalue="Python.Lottery" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +453,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2820513" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2851038" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,9 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <marker date="1567627509489" expanded="true" signature="359:364" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -480,9 +521,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Airbnb Data Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/cats.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Lottery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Project_Gutenberg_harriet_comstock.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/cats and dogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Project_Gutenberg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
-            <marker date="1567630220049" expanded="true" signature="69:70" ph="..." />
-            <marker date="1567630220049" expanded="true" signature="69:75" ph="..." />
+            <marker date="1567798450503" expanded="true" signature="18:19" ph="..." />
+            <marker date="1567798450503" expanded="true" signature="18:24" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/List&amp;loops.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/buffet_restaurant_menu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/guest_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/dict_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/fav_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1567804942992" expanded="true" signature="27:32" ph="..." />
           </folding>
         </state>
       </provider>
@@ -504,13 +612,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/List&amp;loops.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Airbnb Data Analysis.py">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_city_country.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1567870732410" expanded="true" signature="87:92" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -524,53 +641,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/cats.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Lottery.py">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/city_country.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Project_Gutenberg_harriet_comstock.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/cats and dogs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <marker date="1567799132028" expanded="true" signature="614:643" ph="..." />
+            <marker date="1567870740492" expanded="true" signature="103:108" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Project_Gutenberg.py">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="420">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
-            <marker date="1567798450503" expanded="true" signature="18:19" ph="..." />
-            <marker date="1567798450503" expanded="true" signature="18:24" ph="..." />
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1567874980375" expanded="true" signature="90:95" ph="..." />
+            <marker date="1567874980375" expanded="true" signature="731:823" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/fav_number.py">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/employee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <marker date="1567804942992" expanded="true" signature="27:32" ph="..." />
+            <marker date="1567875033406" expanded="true" signature="15:16" ph="..." />
+            <marker date="1567875033406" expanded="true" signature="15:21" ph="..." />
           </folding>
         </state>
       </provider>
