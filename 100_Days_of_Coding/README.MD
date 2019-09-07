@@ -18,3 +18,8 @@ Contains simple python excercises for the purposes for refreshing from the book:
 - 9/6
 - Random variables, Reading and Rriting, Exceptions
 - Difficulty *
+
+[Day Four](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day_4)
+- 9/7
+- Unit testing functions and classes
+- Difficulty ***
