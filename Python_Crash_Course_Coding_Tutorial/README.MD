@@ -6,6 +6,5 @@ Exercises completed by Marc Mailloux
  - Contains simple and easy exercises
  
  [Alien Invasion](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) Video Game Project
- - Creating a Pygame using user defined controls, and scoring
- 
+ - In Alien Invasion, the player controls a rocket ship that appears at the bottom center of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar. When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The player shoots and destroys the aliens. If the player shoots all of the aliens, a new fleet appears that moves faster than the previous fleet. If any aliens hits the player's ship or reaches the bottom of the screen, the player loses a ship. If the player loses three ships, the game ends.
 
