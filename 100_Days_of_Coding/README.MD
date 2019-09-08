@@ -26,4 +26,6 @@ Contains simple python excercises for the purposes for refreshing from the book:
 
 [Day 5](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
 - 9/8
-- Aliens Invasion video game based on pygame library
+- Aliens Invasion Simulation game based on pygame library
+- multiple classes and file 
+- Difficulty ***
