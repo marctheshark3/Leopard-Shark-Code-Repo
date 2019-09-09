@@ -105,20 +105,31 @@ class AlienInvasion:
         #creating an alien and find the number of of aliens in a row
         #spacing between each alien is the width of one alien
         alien = Alien(self)
+        alien_width, alien_height = alien.rect.size
         alien_width = alien.rect.width
         available_space_x = self.settings.screen_width - (2 * alien_width)
         num_aliens_x = available_space_x // (2 * alien_width)
 
-        #creating the first row
-        for alien_num in range(num_aliens_x):
-            self._create_alien(alien_num)
+        #determine how many rows we can add
+        ship_height = self.ship.rect.height
+        available_space_y = (self.settings.screen_height -
+                             (3 * alien_height ) - ship_height)
+        num_rows = available_space_y // (2 * alien_height)
 
-    def _create_alien(self,alien_num):
+        #create the full fleet!
+        for row_num in range(num_rows):
+            for alien_num in range(num_aliens_x):
+                self._create_alien(alien_num,row_num)
+
+
+
+    def _create_alien(self,alien_num,row_num):
         # creating an alien and then placing it in a row
         alien = Alien(self)
-        alien_width = alien.rect.width
+        alien_width ,alien_height = alien.rect.size
         alien.x = alien_width + 2 * alien_width * alien_num
         alien.rect.x = alien.x
+        alien.rect.y = alien.rect.height + 2 * alien.rect.height * row_num
         self.aliens.add(alien)
 
 
