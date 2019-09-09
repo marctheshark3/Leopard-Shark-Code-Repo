@@ -4,6 +4,8 @@ import pygame
 from settings import Settings
 from ship import Ship
 from bullet import Bullet
+from alien import Alien
+
 
 class AlienInvasion:
     '''Class to manage game assesst'''
@@ -19,6 +21,9 @@ class AlienInvasion:
 
         self.ship = Ship(self)
         self.bullets = pygame.sprite.Group()
+        self.aliens = pygame.sprite.Group()
+
+        self._create_fleet()
 
     def run_game(self):
         ''' Start the main loop for the game'''
@@ -28,9 +33,6 @@ class AlienInvasion:
             self.ship.update()
             self._update_bullets()
             self._update_screen()
-
-
-
 
     def _check_events(self):
         ''' Respond to keypress and moust events'''
@@ -73,7 +75,6 @@ class AlienInvasion:
             new_bullet = Bullet(self)
             self.bullets.add(new_bullet)
 
-
     def _update_screen(self):
         ''' Updating images on the screen and flip to the new screen'''
         # Redraw screen with for the background color
@@ -82,6 +83,7 @@ class AlienInvasion:
 
         for bullet in self.bullets.sprites():
             bullet.draw_bullet()
+        self.aliens.draw(self.screen)
 
         # make the most recently drawn screen visible
         pygame.display.flip()
@@ -98,7 +100,22 @@ class AlienInvasion:
                 self.bullets.remove(bullet)
         #print(len(self.bullets))
 
+    def _create_fleet(self):
+        '''creating the fleet of aliens!'''
+        #creating an alien and find the number of of aliens in a row
+        #spacing between each alien is the width of one alien
+        alien = Alien(self)
+        alien_width = alien.rect.width
+        available_space_x = self.settings.screen_width - (2 * alien_width)
+        num_aliens_x = available_space_x // (2 * alien_width)
 
+        #creating the first row
+        for alien_num in range(num_aliens_x):
+            #creating an alien and then placing it in a row
+            alien = Alien(self)
+            alien.x = alien_width + 2 * alien_width * alien_num
+            alien.rect.x = alien.x
+            self.aliens.add(alien)
 
 
 if __name__ == '__main__':
