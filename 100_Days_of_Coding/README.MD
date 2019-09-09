@@ -42,9 +42,12 @@ def run_game(self):
         ''' Start the main loop for the game'''
 
         while True:
+        
             #internal function for checking for keyboard inputs
             self._check_events()
+            
             if self.stats.game_active:
+            
               #updates the ships position if there were any previous keyboard inputs
               self.ship.update()
             
