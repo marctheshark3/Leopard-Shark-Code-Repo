@@ -44,12 +44,15 @@ def run_game(self):
         while True:
             #internal function for checking for keyboard inputs
             self._check_events()
+            if self.stats.game_active:
+              #updates the ships position if there were any previous keyboard inputs
+              self.ship.update()
             
-            #updates the ships position if there were any previous keyboard inputs
-            self.ship.update()
-            
-            #internal function for updating the bullets position and if they are off screen remove them
-            self._update_bullets()
+              #internal function for updating the bullets position and if they are off screen remove them
+              self._update_bullets()
+              
+              #internal function for update the aliens positing and logic
+              self._update_aliens()
             
             #update the screen with the previous updates
             self._update_screen()
