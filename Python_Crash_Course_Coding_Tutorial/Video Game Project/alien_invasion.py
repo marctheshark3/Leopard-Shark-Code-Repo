@@ -111,11 +111,15 @@ class AlienInvasion:
 
         #creating the first row
         for alien_num in range(num_aliens_x):
-            #creating an alien and then placing it in a row
-            alien = Alien(self)
-            alien.x = alien_width + 2 * alien_width * alien_num
-            alien.rect.x = alien.x
-            self.aliens.add(alien)
+            self._create_alien(alien_num)
+
+    def _create_alien(self,alien_num):
+        # creating an alien and then placing it in a row
+        alien = Alien(self)
+        alien_width = alien.rect.width
+        alien.x = alien_width + 2 * alien_width * alien_num
+        alien.rect.x = alien.x
+        self.aliens.add(alien)
 
 
 if __name__ == '__main__':

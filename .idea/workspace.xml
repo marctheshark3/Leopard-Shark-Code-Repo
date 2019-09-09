@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,14 +44,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="95" />
-          <entry key="py" value="20315" />
+          <entry key="py" value="20400" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="20349" />
+          <entry key="Python" value="20434" />
           <entry key="Scratch" value="61" />
         </counts>
       </usages-collector>
@@ -64,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="118" column="8" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+            <state relative-caret-position="296">
+              <caret line="106" column="27" lean-forward="true" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
                 <element signature="e#546#739#0" />
@@ -74,8 +72,8 @@
                 <element signature="e#1641#1916#0" />
                 <element signature="e#1916#2045#0" />
                 <element signature="e#2489#2816#0" />
-                <marker date="1568045750440" expanded="true" signature="150:155" ph="..." />
-                <marker date="1568045750440" expanded="true" signature="2140:2576" ph="..." />
+                <marker date="1568046221083" expanded="true" signature="150:155" ph="..." />
+                <marker date="1568046221083" expanded="true" signature="2140:2576" ph="..." />
               </folding>
             </state>
           </provider>
@@ -514,7 +512,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -763,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="118" column="8" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+        <state relative-caret-position="296">
+          <caret line="106" column="27" lean-forward="true" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
             <element signature="e#546#739#0" />
@@ -773,8 +771,8 @@
             <element signature="e#1641#1916#0" />
             <element signature="e#1916#2045#0" />
             <element signature="e#2489#2816#0" />
-            <marker date="1568045750440" expanded="true" signature="150:155" ph="..." />
-            <marker date="1568045750440" expanded="true" signature="2140:2576" ph="..." />
+            <marker date="1568046221083" expanded="true" signature="150:155" ph="..." />
+            <marker date="1568046221083" expanded="true" signature="2140:2576" ph="..." />
           </folding>
         </state>
       </provider>
