@@ -9,7 +9,7 @@ class Settings:
 
         # ships settings
 
-        self.ship_limit = 3
+        self.ship_limit = 1
 
         #Bullet Settings
 
@@ -36,6 +36,9 @@ class Settings:
 
         # fleet direction of 1 represents right and -1 left
         self.fleet_direction = 1
+
+        #scoring
+        self.alien_points = 50
 
     def increase_speed(self):
         '''increase the speed settings'''
