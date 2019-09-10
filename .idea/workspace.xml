@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/button.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,40 +22,41 @@
     <session id="1905295604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MD" value="1" />
-          <entry key="py" value="54" />
+          <entry key="py" value="64" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="52" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="57" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="177" />
-          <entry key="py" value="23215" />
+          <entry key="dummy" value="10" />
+          <entry key="py" value="25949" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="23331" />
+          <entry key="PLAIN_TEXT" value="76" />
+          <entry key="Python" value="26010" />
           <entry key="Scratch" value="61" />
         </counts>
       </usages-collector>
@@ -65,22 +67,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state>
+              <caret line="179" column="49" selection-start-line="179" selection-start-column="49" selection-end-line="179" selection-end-column="49" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <element signature="e#672#1094#0" />
-                <element signature="e#1228#1629#0" />
-                <element signature="e#1641#1916#0" />
-                <element signature="e#1916#2045#0" />
-                <element signature="e#915#1196#0" />
-                <element signature="e#2650#3358#0" />
-                <element signature="e#3023#3901#0" />
-                <element signature="e#3993#4318#0" />
-                <element signature="e#4473#4692#0" />
-                <element signature="e#4688#4880#0" />
-                <marker date="1568056561485" expanded="true" signature="204:209" ph="..." />
-                <marker date="1568056561485" expanded="true" signature="2357:2793" ph="..." />
+                <marker date="1568146410769" expanded="true" signature="229:234" ph="..." />
+                <marker date="1568146410769" expanded="true" signature="2661:3180" ph="..." />
+                <marker date="1568146410769" expanded="true" signature="3680:4100" ph="..." />
               </folding>
             </state>
           </provider>
@@ -89,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="75">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -98,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="28" column="77" lean-forward="true" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+            <state relative-caret-position="407">
+              <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <marker date="1568047448413" expanded="true" signature="69:74" ph="..." />
@@ -109,9 +102,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+              <folding>
+                <marker date="1568147355447" expanded="true" signature="32:37" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/button.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+              <folding>
+                <marker date="1568144478178" expanded="true" signature="33:34" ph="..." />
+                <marker date="1568144478178" expanded="true" signature="33:39" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
+            <state relative-caret-position="735">
               <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
               <folding>
                 <marker date="1568055165312" expanded="true" signature="26:27" ph="..." />
@@ -124,39 +142,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
-                <marker date="1568055029400" expanded="true" signature="15:16" ph="..." />
-                <marker date="1568055029400" expanded="true" signature="15:21" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/bullet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1568040791344" expanded="true" signature="69:70" ph="..." />
-                <marker date="1568040791344" expanded="true" signature="69:75" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <marker date="1567874980375" expanded="true" signature="90:95" ph="..." />
-                <marker date="1567874980375" expanded="true" signature="731:823" ph="..." />
+                <marker date="1568146128406" expanded="true" signature="15:16" ph="..." />
+                <marker date="1568146128406" expanded="true" signature="15:21" ph="..." />
               </folding>
             </state>
           </provider>
@@ -241,11 +231,15 @@
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/employee.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/bullet.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien.py" />
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py" />
         <option value="$PROJECT_DIR$/Natural Language Processsing/game_stats.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py" />
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/button.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/scoreboard.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/sc.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py" />
       </list>
     </option>
   </component>
@@ -255,8 +249,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="834" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -267,6 +261,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,7 +296,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,6 +344,9 @@
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
@@ -391,6 +388,9 @@
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
@@ -505,10 +505,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2881563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2954823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -532,31 +532,6 @@
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2881563" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32959184" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -666,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <marker date="1567804942992" expanded="true" signature="27:32" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,9 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <marker date="1567870740492" expanded="true" signature="103:108" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,10 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <marker date="1567875033406" expanded="true" signature="15:16" ph="..." />
-            <marker date="1567875033406" expanded="true" signature="15:21" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,8 +669,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural Language Processsing/game_stats.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
           <folding>
-            <marker date="1567637844464" expanded="true" signature="64:93" ph="..." />
+            <marker date="1568144478178" expanded="true" signature="33:34" ph="..." />
+            <marker date="1568144478178" expanded="true" signature="33:39" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding>
+            <marker date="1568055165312" expanded="true" signature="26:27" ph="..." />
+            <marker date="1568055165312" expanded="true" signature="829:1252" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <marker date="1568146128406" expanded="true" signature="15:16" ph="..." />
+            <marker date="1568146128406" expanded="true" signature="15:21" ph="..." />
           </folding>
         </state>
       </provider>
@@ -721,37 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/dict_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/test_employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1567874980375" expanded="true" signature="90:95" ph="..." />
-            <marker date="1567874980375" expanded="true" signature="731:823" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/bullet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1568040791344" expanded="true" signature="69:70" ph="..." />
-            <marker date="1568040791344" expanded="true" signature="69:75" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Classes_exercises.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -762,10 +748,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/dict_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/sc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/sc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="28" column="77" lean-forward="true" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+        <state relative-caret-position="407">
+          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1568047448413" expanded="true" signature="69:74" ph="..." />
@@ -773,60 +772,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        <state relative-caret-position="480">
+          <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
           <folding>
-            <marker date="1568055165312" expanded="true" signature="26:27" ph="..." />
-            <marker date="1568055165312" expanded="true" signature="829:1252" ph="..." />
+            <marker date="1568147355447" expanded="true" signature="32:37" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Natural Language Processsing/game_stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <marker date="1568055029400" expanded="true" signature="15:16" ph="..." />
-            <marker date="1568055029400" expanded="true" signature="15:21" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        <state>
+          <caret line="179" column="49" selection-start-line="179" selection-start-column="49" selection-end-line="179" selection-end-column="49" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#672#1094#0" />
-            <element signature="e#1228#1629#0" />
-            <element signature="e#1641#1916#0" />
-            <element signature="e#1916#2045#0" />
-            <element signature="e#915#1196#0" />
-            <element signature="e#2650#3358#0" />
-            <element signature="e#3023#3901#0" />
-            <element signature="e#3993#4318#0" />
-            <element signature="e#4473#4692#0" />
-            <element signature="e#4688#4880#0" />
-            <marker date="1568056561485" expanded="true" signature="204:209" ph="..." />
-            <marker date="1568056561485" expanded="true" signature="2357:2793" ph="..." />
+            <marker date="1568146410769" expanded="true" signature="229:234" ph="..." />
+            <marker date="1568146410769" expanded="true" signature="2661:3180" ph="..." />
+            <marker date="1568146410769" expanded="true" signature="3680:4100" ph="..." />
           </folding>
         </state>
       </provider>
