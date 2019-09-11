@@ -1,8 +1,10 @@
 # 100 Days of Coding! 
 - Started 9/3/19
-- From Python basics, some web development, Machine Learning to Data Science
+- From Python basics, pygame simulation, some web development, machine learning, and data science
 
-#### Python Basics:
+## Aliens Invasion Simulation game based on pygame library
+Difficulty - ***
+
 [Day 8](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
 - 9/11
 - Finshing last elements for the game 
@@ -14,11 +16,10 @@
 - Integrated a scoreboard and a limited number of attempts or lives
 - Refactored settings and Added criteria for speeding up the game
 - Button Class, Scoreboard Class
-- Difficulty ***
+
 
 [Day 5 - 6](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
 - 9/8 - 9/9
-- Aliens Invasion Simulation game based on pygame library
 - Functionality:
   - Bitmap file loaded for ship
   - Able to move ship via arrow keys
@@ -52,7 +53,9 @@ def run_game(self):
             #update the screen with the previous updates
             self._update_screen()
 ```
-- Difficulty ***
+
+
+## Python Basics:
 
 [Day Four](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day_4)
 - 9/7
