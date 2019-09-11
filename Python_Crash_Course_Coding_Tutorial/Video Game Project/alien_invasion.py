@@ -135,16 +135,20 @@ class AlienInvasion:
         collisions = pygame.sprite.groupcollide(self.bullets, self.aliens, True, True)
 
         if collisions:
-            self.stats.score += self.settings.alien_points
-            print('collide')
+            for aliens in collisions.values():
+                self.stats.score += self.settings.alien_points + len(aliens)
             self.sb.prep_score()
-            print('reset score ')
+            self.sb.check_high_score()
 
         if not self.aliens:
             # destroy existing bullets and create new fleet
             self.bullets.empty()
             self._create_fleet()
             self.settings.increase_speed()
+
+            #increase the level indication
+            self.stats.level += 1
+            self.sb.prep_level()
 
 
     def _create_fleet(self):
@@ -154,14 +158,14 @@ class AlienInvasion:
         alien = Alien(self)
         alien_width, alien_height = alien.rect.size
         alien_width = alien.rect.width
-        available_space_x = self.settings.screen_width - (3 * alien_width)
-        num_aliens_x = available_space_x // (3 * alien_width)
+        available_space_x = self.settings.screen_width - (2 * alien_width)
+        num_aliens_x = available_space_x // (2 * alien_width)
 
         #determine how many rows we can add
         ship_height = self.ship.rect.height
         available_space_y = (self.settings.screen_height -
                              (3 * alien_height ) - ship_height)
-        num_rows = available_space_y // (2 * alien_height)
+        num_rows = available_space_y // (3 * alien_height)
 
         #create the full fleet!
         for row_num in range(num_rows):
@@ -245,6 +249,7 @@ class AlienInvasion:
         self.stats.reset_stats()
         self.stats.game_active = True
         self.sb.prep_score()
+        self.sb.prep_level()
 
 
         # remove any of the bullets and aliens
