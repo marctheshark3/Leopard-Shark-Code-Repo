@@ -3,6 +3,11 @@
 - From Python basics, some web development, Machine Learning to Data Science
 
 #### Python Basics:
+[Day 8](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
+- 9/11
+- Finshing last elements for the game 
+  - Displaying the current level, highscore, and number of ships the player has left
+
 [Day 7](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
 - 9/10
 - Made a button for the player to start the game, so the player isnt playing as soon as we run the code
