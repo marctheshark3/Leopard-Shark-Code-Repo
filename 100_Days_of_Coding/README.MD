@@ -3,25 +3,12 @@
 - From Python basics, some web development, Machine Learning to Data Science
 
 #### Python Basics:
-Contains simple python excercises for the purposes for refreshing from the book: Python Crash Course by Eric Matthes
-[DAY ONE](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%201)
-- 9/3
-- Intro, Variables, Data Types, Dictionaries
-- Difficulty *
-
-[DAY TWO](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%202)
-- 9/4
-- Dictionaries,User Input Funtions, Classes 
-- Difficulty *
-
-[DAY THREE](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day_3)
-- 9/6
-- Random variables, Reading and Writing, Exceptions
-- Difficulty *
-
-[Day Four](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day_4)
-- 9/7
-- Unit testing functions and classes
+[Day 7] (https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
+- 9/10
+- Made a button for the player to start the game, so the player isnt playing as soon as we run the code
+- Integrated a scoreboard and a limited number of attempts or lives
+- Refactored settings and Added criteria for speeding up the game
+- Button Class, Scoreboard Class
 - Difficulty ***
 
 [Day 5 - 6](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
@@ -61,3 +48,24 @@ def run_game(self):
             self._update_screen()
 ```
 - Difficulty ***
+
+[Day Four](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day_4)
+- 9/7
+- Unit testing functions and classes
+- Difficulty ***
+
+[DAY THREE](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day_3)
+- 9/6
+- Random variables, Reading and Writing, Exceptions
+- Difficulty *
+
+[DAY TWO](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%202)
+- 9/4
+- Dictionaries,User Input Funtions, Classes 
+- Difficulty *
+
+Contains simple python excercises for the purposes for refreshing from the book: Python Crash Course by Eric Matthes
+[DAY ONE](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/100_Days_of_Coding/Day%201)
+- 9/3
+- Intro, Variables, Data Types, Dictionaries
+- Difficulty *
