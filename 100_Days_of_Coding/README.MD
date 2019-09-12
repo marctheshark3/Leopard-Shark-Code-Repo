@@ -2,11 +2,14 @@
 - Started 9/3/19
 - From Python basics, pygame simulation, some web development, machine learning, and data science
 
-## Aliens Invasion Simulation game based on pygame library
-Difficulty - ***
+## Django Web Development
+
 [Day 9.5](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Web_Applications)
 - Began making a sample web app using Django
 
+
+## Aliens Invasion Simulation game based on pygame library
+Difficulty - ***
 
 [Day 9](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
 - Refactored some of the code
