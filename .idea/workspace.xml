@@ -4,7 +4,6 @@
     <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,14 +53,14 @@
         <counts>
           <entry key="Python Console" value="177" />
           <entry key="dummy" value="10" />
-          <entry key="py" value="28172" />
+          <entry key="py" value="28297" />
           <entry key="txt" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="134" />
-          <entry key="Python" value="28233" />
+          <entry key="Python" value="28358" />
           <entry key="Scratch" value="61" />
         </counts>
       </usages-collector>
@@ -69,17 +68,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+            <state relative-caret-position="290">
+              <caret line="249" column="29" selection-start-line="249" selection-start-column="29" selection-end-line="249" selection-end-column="29" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
                 <element signature="e#2532#2732#0" />
                 <element signature="e#2772#3306#0" />
                 <element signature="e#3347#3760#0" />
-                <element signature="e#3816#4552#0" />
                 <element signature="e#4592#5462#0" />
                 <element signature="e#5519#5844#0" />
                 <element signature="e#5884#6251#0" />
@@ -87,20 +85,19 @@
                 <element signature="e#6563#6755#0" />
                 <element signature="e#6790#7358#0" />
                 <element signature="e#7404#7652#0" />
-                <element signature="e#8008#8449#0" />
-                <marker date="1568304760471" expanded="true" signature="264:269" ph="..." />
-                <marker date="1568304760471" expanded="true" signature="2875:3449" ph="..." />
-                <marker date="1568304760471" expanded="true" signature="3949:4700" ph="..." />
+                <marker date="1568306033589" expanded="true" signature="264:269" ph="..." />
+                <marker date="1568306033589" expanded="true" signature="2877:3451" ph="..." />
+                <marker date="1568306033589" expanded="true" signature="3951:4458" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -121,11 +118,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+            <state relative-caret-position="508">
+              <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1568305134598" expanded="true" signature="86:91" ph="..." />
+                <element signature="e#640#1084#0" />
+                <element signature="e#1120#1366#0" />
+                <element signature="e#1407#1906#0" />
+                <element signature="e#1948#2125#0" />
+                <element signature="e#2161#2579#0" />
+                <element signature="e#2615#2896#0" />
+                <element signature="e#2951#3187#0" />
+                <element signature="e#3237#3500#0" />
+                <marker date="1568306033585" expanded="true" signature="86:91" ph="..." />
               </folding>
             </state>
           </provider>
@@ -243,9 +248,9 @@
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/settings.py" />
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" />
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py" />
+        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py" />
       </list>
     </option>
   </component>
@@ -507,7 +512,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.30647132" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.30647132" />
       <window_info id="Structure" order="1" sideWeight="0.50102043" side_tool="true" weight="0.2991453" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -705,17 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1568047448413" expanded="true" signature="69:74" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/ship.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -770,38 +764,32 @@
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/highscore.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+        <state relative-caret-position="390">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#2532#2732#0" />
-            <element signature="e#2772#3306#0" />
-            <element signature="e#3347#3760#0" />
-            <element signature="e#3816#4552#0" />
-            <element signature="e#4592#5462#0" />
-            <element signature="e#5519#5844#0" />
-            <element signature="e#5884#6251#0" />
-            <element signature="e#6295#6514#0" />
-            <element signature="e#6563#6755#0" />
-            <element signature="e#6790#7358#0" />
-            <element signature="e#7404#7652#0" />
-            <element signature="e#8008#8449#0" />
-            <marker date="1568304760471" expanded="true" signature="264:269" ph="..." />
-            <marker date="1568304760471" expanded="true" signature="2875:3449" ph="..." />
-            <marker date="1568304760471" expanded="true" signature="3949:4700" ph="..." />
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1568047448413" expanded="true" signature="69:74" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/score_board.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+        <state relative-caret-position="508">
+          <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1568305134598" expanded="true" signature="86:91" ph="..." />
+            <element signature="e#640#1084#0" />
+            <element signature="e#1120#1366#0" />
+            <element signature="e#1407#1906#0" />
+            <element signature="e#1948#2125#0" />
+            <element signature="e#2161#2579#0" />
+            <element signature="e#2615#2896#0" />
+            <element signature="e#2951#3187#0" />
+            <element signature="e#3237#3500#0" />
+            <marker date="1568306033585" expanded="true" signature="86:91" ph="..." />
           </folding>
         </state>
       </provider>
@@ -809,7 +797,30 @@
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/game_stats.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Video Game Project/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="249" column="29" selection-start-line="249" selection-start-column="29" selection-end-line="249" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#2532#2732#0" />
+            <element signature="e#2772#3306#0" />
+            <element signature="e#3347#3760#0" />
+            <element signature="e#4592#5462#0" />
+            <element signature="e#5519#5844#0" />
+            <element signature="e#5884#6251#0" />
+            <element signature="e#6295#6514#0" />
+            <element signature="e#6563#6755#0" />
+            <element signature="e#6790#7358#0" />
+            <element signature="e#7404#7652#0" />
+            <marker date="1568306033589" expanded="true" signature="264:269" ph="..." />
+            <marker date="1568306033589" expanded="true" signature="2877:3451" ph="..." />
+            <marker date="1568306033589" expanded="true" signature="3951:4458" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

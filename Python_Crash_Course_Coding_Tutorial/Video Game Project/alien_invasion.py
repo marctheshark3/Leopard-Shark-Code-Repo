@@ -29,7 +29,7 @@ class AlienInvasion:
 
         self._create_fleet()
 
-        self.play_button = Button(self, 'Play')
+        self.play_button = Button(self, 'Start')
 
 
 
@@ -74,7 +74,7 @@ class AlienInvasion:
         elif event.key == pygame.K_q:
             old_high_score = self.stats.high_score
             self.sb.save_high_score(str(old_high_score))
-            print(old_high_score)
+            #print(old_high_score)
             sys.exit()
 
         elif event.key == pygame.K_SPACE:
@@ -144,14 +144,7 @@ class AlienInvasion:
             self.sb.check_high_score()
 
         if not self.aliens:
-            # destroy existing bullets and create new fleet
-            self.bullets.empty()
-            self._create_fleet()
-            self.settings.increase_speed()
-
-            #increase the level indication
-            self.stats.level += 1
-            self.sb.prep_level()
+            self._start_new_level()
 
     def _create_fleet(self):
         '''creating the fleet of aliens!'''
@@ -251,10 +244,8 @@ class AlienInvasion:
 
         self.stats.reset_stats()
         self.stats.game_active = True
-        self.sb.prep_score()
-        self.sb.prep_level()
-        self.sb.prep_ships()
-
+        #load the  images for score, level, ships lives, and high score
+        self.sb.prep_images()
 
         # remove any of the bullets and aliens
         self.aliens.empty()
@@ -266,6 +257,17 @@ class AlienInvasion:
 
         # hide mouse cursor
         pygame.mouse.set_visible(False)
+
+    def _start_new_level(self):
+        # destroy existing bullets and create new fleet
+        self.bullets.empty()
+        self._create_fleet()
+        self.settings.increase_speed()
+
+        # increase the level indication
+        self.stats.level += 1
+        self.sb.prep_level()
+
 
 if __name__ == '__main__':
     ''' Make a game instance, and run the game'''
