@@ -1,5 +1,6 @@
 import sys
 from time import sleep
+import random
 import pygame
 from settings import Settings
 from game_stats import GameStats
@@ -8,6 +9,7 @@ from bullet import Bullet
 from alien import Alien
 from button import Button
 from score_board import Scoreboard
+
 class AlienInvasion:
     '''Class to manage game assesst'''
 
@@ -26,6 +28,8 @@ class AlienInvasion:
         self.ship = Ship(self)
         self.bullets = pygame.sprite.Group()
         self.aliens = pygame.sprite.Group()
+        self.alien_bullet = pygame.sprite.Group()
+
 
         self._create_fleet()
 
@@ -92,7 +96,7 @@ class AlienInvasion:
             self.ship.moving_left = False
 
     def _fire_bullet(self):
-        '''creates a new nullet and adds it to the bullets group'''
+        '''creates a new bullet and adds it to the bullets group'''
         if len(self.bullets) < self.settings.bullet_allowed:
 
             new_bullet = Bullet(self)
@@ -131,6 +135,7 @@ class AlienInvasion:
         self._check_bullet_alien_collision()
 
 
+
     def _check_bullet_alien_collision(self):
         '''response to impacts'''
         # check if any bullets hit the aliens
@@ -167,6 +172,8 @@ class AlienInvasion:
             for alien_num in range(num_aliens_x):
                 self._create_alien(alien_num,row_num)
 
+
+
     def _create_alien(self,alien_num,row_num):
         # creating an alien and then placing it in a row
         alien = Alien(self)
@@ -187,6 +194,12 @@ class AlienInvasion:
             #print('Ship hit!!!')
             self._ship_hit()
         self._check_aliens_bottom()
+
+
+
+
+
+
 
     def _check_fleet_edges(self):
         '''respond to the event of the fleet hitting the edge of the screen'''
@@ -231,13 +244,14 @@ class AlienInvasion:
                 self._ship_hit()
                 break
 
+
+
     def _check_play_button(self,mouse_pos):
         ''' start a new game when play is clicked'''
         button_clicked = self.play_button.rect.collidepoint(mouse_pos)
         if button_clicked and not self.stats.game_active:
             self.settings.initialize_dynamic_settings()
             self._restart_game()
-
 
     def _restart_game(self):
         # reset game stats

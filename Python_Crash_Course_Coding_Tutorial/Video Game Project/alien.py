@@ -1,7 +1,7 @@
 import pygame
-
+import random
 from pygame.sprite import Sprite
-
+import random as rand
 class Alien(Sprite):
     '''A class to represent a single alien in the fleet'''
 
@@ -20,8 +20,11 @@ class Alien(Sprite):
         self.rect.x = self.rect.width
         self.rect.y = self.rect.height
 
-        #store each laients position
+        #store each aliens position
         self.x = float(self.rect.x)
+
+        #representing the firepower of aliens
+        self.firepower = False
 
     def update(self):
         ''' move the aliens to the right or left'''
@@ -34,4 +37,13 @@ class Alien(Sprite):
         screen_rect = self.screen.get_rect()
         if self.rect.right >= screen_rect.right or screen_rect.left <= 0:
             return True
+
+    def get_alien_weapons(self):
+        """determine randomly which aliens will have the firepower"""
+        # roughly 30 percent of aliens will have firepower
+        firepower = random.randint(1,10)
+        if firepower <= 5:
+            return True
+        else:
+            return False
 
