@@ -4,6 +4,13 @@
 
 ## Aliens Invasion Simulation game based on pygame library
 Difficulty - ***
+[Day 9.5](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Web_Applications)
+- Began making a sample web app using Django
+
+
+[Day 9](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
+- Refactored some of the code
+- Later looking to have the aliens be able to fire bullets 
 
 [Day 8](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Video%20Game%20Project) 
 - 9/11
