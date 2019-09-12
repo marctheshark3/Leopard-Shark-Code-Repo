@@ -72,6 +72,9 @@ class AlienInvasion:
             self.ship.moving_left = True
 
         elif event.key == pygame.K_q:
+            old_high_score = self.stats.high_score
+            self.sb.save_high_score(str(old_high_score))
+            print(old_high_score)
             sys.exit()
 
         elif event.key == pygame.K_SPACE:
@@ -149,7 +152,6 @@ class AlienInvasion:
             #increase the level indication
             self.stats.level += 1
             self.sb.prep_level()
-
 
     def _create_fleet(self):
         '''creating the fleet of aliens!'''

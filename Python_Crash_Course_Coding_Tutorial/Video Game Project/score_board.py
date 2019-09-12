@@ -77,3 +77,17 @@ class Scoreboard:
             ship.rect.y = 10
             self.ships.add(ship)
 
+    def save_high_score(self,my_high_score):
+        filename = '/Users/marctheshark/Documents/GitHub/Leopard-Shark-Code-Repo/Python_Crash_Course_Coding_Tutorial/Video Game Project/highscore.txt'
+
+        with open(filename, 'w') as file_object:
+            file_object.write(my_high_score)
+
+    def get_previous_high_score(self):
+        filename = '/Users/marctheshark/Documents/GitHub/Leopard-Shark-Code-Repo/Python_Crash_Course_Coding_Tutorial/Video Game Project/highscore.txt'
+
+        with open(filename, 'r') as file_object:
+           lines = file_object.readline()
+           return int(lines)
+
+

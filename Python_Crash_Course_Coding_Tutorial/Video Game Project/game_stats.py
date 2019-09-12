@@ -1,3 +1,5 @@
+from score_board import Scoreboard
+
 class GameStats:
     '''Track statistics for Alien invasion'''
 
@@ -6,7 +8,8 @@ class GameStats:
         self.reset_stats()
         self.game_active = False
         #High Score is never to be reset
-        self.high_score = 0
+        self.score_board = Scoreboard
+        self.high_score = self.score_board.get_previous_high_score(self)
 
 
 
