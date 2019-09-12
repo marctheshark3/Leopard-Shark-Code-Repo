@@ -9,7 +9,7 @@ class Settings:
 
         # ships settings
 
-        self.ship_limit = 1
+        self.ship_limit = 2
 
         #Bullet Settings
 
