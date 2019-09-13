@@ -13,7 +13,7 @@ learning_log$ source 11_env/bin/activate
   - http://127.0.0.1:8000/admin/
   - http://127.0.0.1:8000/
 
-# Entering the Django Interactive Shell of testing purposes
+# Entering the Django Interactive Shell for testing purposes
 - be sure Virtual ENV is active
 - Start the shell
 ```console
