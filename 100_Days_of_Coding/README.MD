@@ -1,8 +1,17 @@
 # 100 Days of Coding! 
 - Started 9/3/19
 - From Python basics, pygame simulation, some web development, machine learning, and data science
+## Data Science Project: Video Game Classification [ACTIVE]
+[Day 11](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/blob/master/Machine_Learning_Projects/testing.ipynb)
+ - Data Wrangling and cleaning
 
-## Django Web Development
+[Day 10](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/blob/master/Machine_Learning_Projects/testing.ipynb)
+- Started juypter notebook and uploaded dataset
+
+## Django Web Development [ON HOLD Currently]
+
+[Day 10](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Web_Applications)
+- Made Home page
 
 [Day 9.5](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/tree/master/Python_Crash_Course_Coding_Tutorial/Web_Applications)
 - Began making a sample web app using Django
