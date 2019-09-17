@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/pizzas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/pizzas/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/pizzas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/testing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzeria/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzeria/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +37,7 @@
           <entry key="MD" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="3" />
-          <entry key="ipynb" value="2" />
+          <entry key="ipynb" value="3" />
           <entry key="pstat" value="1" />
           <entry key="py" value="87" />
           <entry key="txt" value="4" />
@@ -54,7 +46,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="IPNB" value="2" />
+          <entry key="IPNB" value="3" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Profiler Session" value="1" />
@@ -84,8 +76,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -460,7 +461,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.15445666" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.15445666" />
       <window_info id="Structure" order="1" sideWeight="0.50102043" side_tool="true" weight="0.2991453" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,7 +475,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32959184" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32959184" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32959184" />
@@ -500,13 +501,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Button and some scoreboard functionality (WIP)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Lottery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Project_Gutenberg_harriet_comstock.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -780,7 +774,14 @@
     <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
