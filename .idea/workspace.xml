@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)">
-      <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
     <session id="1905295604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="6" />
@@ -75,25 +73,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="12" />
+              <selected id="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="59">
@@ -278,6 +267,9 @@
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="false" />
@@ -467,7 +459,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.15628816" />
       <window_info id="Structure" order="1" sideWeight="0.50102043" side_tool="true" weight="0.2991453" />
@@ -484,7 +475,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32959184" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -760,6 +751,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -770,17 +771,7 @@
     <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <selected id="8" />
         </state>
       </provider>
     </entry>
