@@ -4,8 +4,10 @@
 ## Data Science Project: Video Game Classification [ACTIVE](https://github.com/marctheshark3/Leopard-Shark-Code-Repo/blob/master/Machine_Learning_Projects/testing.ipynb)
 Day 12 
  - Implemented Linear Regression and Decision Trees
+ 
 Day 11
  - Data Wrangling and cleaning
+ 
 Day 10
 - Started juypter notebook and uploaded dataset
 
