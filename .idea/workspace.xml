@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)" />
+    <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,14 +24,14 @@
     <session id="1905295604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -34,7 +39,7 @@
           <entry key="MD" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="3" />
-          <entry key="ipynb" value="3" />
+          <entry key="ipynb" value="4" />
           <entry key="pstat" value="1" />
           <entry key="py" value="88" />
           <entry key="txt" value="4" />
@@ -43,7 +48,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="IPNB" value="3" />
+          <entry key="IPNB" value="4" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Profiler Session" value="1" />
@@ -73,7 +78,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -82,11 +87,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+            <state relative-caret-position="1470">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -111,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/buffet_restaurant_menu.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/car_conditional_test.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/alien_colors.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Chapter_2_Variables_simple_data_types/dict_example.py" />
@@ -162,6 +175,7 @@
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/pizzas/base.html" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/pizzas/index.html" />
         <option value="$PROJECT_DIR$/Machine_Learning_Projects/testing.ipynb" />
+        <option value="$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb" />
       </list>
     </option>
   </component>
@@ -194,6 +208,12 @@
               <item name="Leopard-Shark-Code-Repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leopard-Shark-Code-Repo" type="462c0819:PsiDirectoryNode" />
               <item name="Machine_Learning_Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leopard-Shark-Code-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leopard-Shark-Code-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine_Learning_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leopard-Shark-Code-Repo" type="b2602c69:ProjectViewProjectNode" />
@@ -459,8 +479,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.15628816" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.15995117" />
       <window_info id="Structure" order="1" sideWeight="0.50102043" side_tool="true" weight="0.2991453" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,8 +495,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32959184" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32959184" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -500,13 +521,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Button and some scoreboard functionality (WIP)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/cats and dogs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Project_Gutenberg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -751,16 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -771,7 +775,24 @@
     <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="8" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
         </state>
       </provider>
     </entry>
