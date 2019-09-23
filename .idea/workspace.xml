@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" afterDir="false" />
     </list>
@@ -24,7 +22,7 @@
     <session id="1905295604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="6" />
@@ -78,20 +76,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="4" />
             </state>
           </provider>
         </entry>
@@ -479,7 +468,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.15995117" />
       <window_info id="Structure" order="1" sideWeight="0.50102043" side_tool="true" weight="0.2991453" />
@@ -495,7 +483,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32959184" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32959184" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32959184" />
@@ -772,13 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
@@ -793,6 +774,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
         </state>
       </provider>
     </entry>
