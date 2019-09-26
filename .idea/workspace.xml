@@ -26,7 +26,7 @@
     <session id="1905295604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="6" />
@@ -64,7 +64,7 @@
           <entry key="dummy" value="10" />
           <entry key="gitignore" value="22" />
           <entry key="html" value="412" />
-          <entry key="py" value="34725" />
+          <entry key="py" value="34847" />
           <entry key="txt" value="69" />
         </counts>
       </usages-collector>
@@ -72,78 +72,14 @@
         <counts>
           <entry key="HTML" value="412" />
           <entry key="PLAIN_TEXT" value="156" />
-          <entry key="Python" value="34790" />
+          <entry key="Python" value="34912" />
           <entry key="Scratch" value="61" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/mpl_squares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/scatter_squares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/random_walks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <marker date="1569358716865" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/rw_visual.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1470">
-              <caret line="116" selection-start-line="116" selection-end-line="116" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -513,13 +449,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32959184" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.47069597" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -776,34 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/rw_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/mpl_squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="116" selection-start-line="116" selection-end-line="116" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/scatter_squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -817,12 +729,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/rw_visual.py">
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/scatter_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/mpl_squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/AWS/Wine Classification.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
