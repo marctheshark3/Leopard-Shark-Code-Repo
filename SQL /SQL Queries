@@ -2,9 +2,70 @@ select * from countrylanguage;
 select * from country;
 select * from city;
 
-Problem: Choose specific countries and life expectantcy for comparision
+
+- Problem: Choose specific countries and life expectantcy for comparision
 
 select * from country
 where 
 Continent = 'Asia' and LifeExpectancy < 50
 or Continent = 'Africa' and LifeExpectancy < 70;
+
+
+- Gathering specific subset of columns
+
+select Name, Continent, SurfaceArea from country;
+
+
+- Comparing cities in europe by GNP
+
+select name, code, continent, GNP as Gross_National_Product
+from country
+where continent = 'Europe'
+
+Additionally:
+
+select * 
+ from ( 
+select name, code,continent, GNP as Gross_National_Product
+from country
+) as x
+where continent = 'Europe';
+
+
+- Make Categorical Variables based upon the average LifeExpectancy 
+select avg(LifeExpectancy) from country;
+
+select name, Continent, LifeExpectancy,
+    case when LifeExpectancy < 56 then 'High Mortality'
+        when LifeExpectancy > 76 then 'Low Mortality'
+        when LifeExpectancy >= 56 and 
+            LifeExpectancy <= 76 then 'Normalish'
+        end as Mortality
+from country;
+
+
+- Gather the rows will null values in Life Expectancy
+
+select *
+ from country
+where LifeExpectancy is null;
+
+
+-substitute the values of null in population to 0
+
+select name, coalesce(population, 0) as population
+from country;
+
+- Gather data with a specified pattern for example
+countries whose independance day begin with 19__ or having a population of 100_000
+
+select name, continent, population , Indepyear
+from country
+where continent = 'North America' 
+and (indepyear like '%19%' or population > 100000);
+
+- Sort gathered elements be specified continent and ordered by yeah of independence in descending order
+select name, continent, population, indepyear
+from country
+where Continent = 'Africa'
+order by IndepYear desc;
