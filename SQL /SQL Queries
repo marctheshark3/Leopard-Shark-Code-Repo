@@ -1,0 +1,10 @@
+select * from countrylanguage;
+select * from country;
+select * from city;
+
+Problem: Choose specific countries and life expectantcy for comparision
+
+select * from country
+where 
+Continent = 'Asia' and LifeExpectancy < 50
+or Continent = 'Africa' and LifeExpectancy < 70;
