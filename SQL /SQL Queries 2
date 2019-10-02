@@ -1,0 +1,5 @@
+Finding the count of the regions, and their respective continents
+select region, continent, count(*) as count 
+from country group by region
+order by continent, count;
+
