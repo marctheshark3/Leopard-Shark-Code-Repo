@@ -1,0 +1,15 @@
+SELECT c.name, count(*) as city_count
+FROM country as c left JOIN city as ci ON c.code=ci.countrycode
+group by c.name, c.continent;
+
+select  * from Receipts;
+select * from receipt_items;
+/* For each receipt, how many items are on each? */
+
+SELECT r.id, r.customer_id, count(*) as Receipt_count 
+FROM Receipts as r left outer JOIN receipt_items as ri ON r.id=ri.receipt_id
+group by r.id, r.customer_id;
+
+
+
+

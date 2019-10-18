@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101b237e-3a0c-4b4f-8729-c79769306799" name="Default Changelist" comment="Button and some scoreboard functionality (WIP)">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/mpl_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/random_walks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/rw_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/scatter_squares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,45 +22,46 @@
     <session id="1905295604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
-          <entry key="project.open.time.3" value="3" />
+          <entry key="project.closed" value="26" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="MD" value="1" />
+          <entry key="MD" value="2" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="3" />
-          <entry key="ipynb" value="4" />
+          <entry key="ipynb" value="6" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="92" />
+          <entry key="py" value="96" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="IPNB" value="4" />
-          <entry key="Markdown" value="1" />
+          <entry key="IPNB" value="6" />
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="85" />
+          <entry key="Python" value="89" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="181" />
+          <entry key="Python Console" value="1035" />
           <entry key="dummy" value="10" />
           <entry key="gitignore" value="22" />
           <entry key="html" value="412" />
-          <entry key="py" value="34847" />
+          <entry key="py" value="37390" />
           <entry key="txt" value="69" />
         </counts>
       </usages-collector>
@@ -72,14 +69,55 @@
         <counts>
           <entry key="HTML" value="412" />
           <entry key="PLAIN_TEXT" value="156" />
-          <entry key="Python" value="34912" />
+          <entry key="Python" value="38309" />
           <entry key="Scratch" value="61" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Airbnb Data Analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/Ibotta-assessment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1570302019755" expanded="true" signature="1031:1036" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/Ibotta.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="117" selection-start-line="117" selection-end-line="145" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/function_city.py" />
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/more_functions.py" />
-        <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Classes_exercises.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/More_classes.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/dice_class.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Airbnb Data Analysis.py" />
@@ -147,6 +182,9 @@
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/scatter_squares.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/random_walks.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/rw_visual.py" />
+        <option value="$PROJECT_DIR$/Ibotta Assessment/first_task.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_Projects/Ibotta-assessment.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_Projects/Ibotta.py" />
       </list>
     </option>
   </component>
@@ -156,10 +194,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -169,7 +206,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,18 +216,24 @@
             <path>
               <item name="Leopard-Shark-Code-Repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leopard-Shark-Code-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine_Learning_Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leopard-Shark-Code-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leopard-Shark-Code-Repo" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Crash_Course_Coding_Tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leopard-Shark-Code-Repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leopard-Shark-Code-Repo" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Crash_Course_Coding_Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="Simple_Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,11 +247,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/pizzas" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/learning_logs/learning_logs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Machine_Learning_Projects" />
+      <recent name="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/pizzeria/pizzas/templates/pizzas" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -224,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rw_visual">
+  <component name="RunManager" selected="Python.Ibotta">
     <configuration name="Leopard-Shark-Code-Repo" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,7 +286,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="Mushroom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ibotta-assessment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +295,33 @@
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../UCF-Graduate-Course-Work/Machine Learning/UCI Mushroom Dataset/Mushroom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_Projects/Ibotta-assessment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ibotta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leopard-Shark-Code-Repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_Projects/Ibotta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_task" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,29 +365,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Web_Applications/learning_logs/learning_logs/admin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mpl_squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leopard-Shark-Code-Repo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/mpl_squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ibotta Assessment/first_task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,6 +378,9 @@
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
@@ -354,6 +400,9 @@
       <module name="Leopard-Shark-Code-Repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python-env/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
@@ -371,19 +420,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.Leopard-Shark-Code-Repo" />
-      <item itemvalue="Python.admin" />
-      <item itemvalue="Python.Mushroom" />
-      <item itemvalue="Python.mpl_squares" />
       <item itemvalue="Python.scatter_squares" />
       <item itemvalue="Python.rw_visual" />
+      <item itemvalue="Python.first_task" />
+      <item itemvalue="Python.Ibotta-assessment" />
+      <item itemvalue="Python.Ibotta" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ibotta" />
+        <item itemvalue="Python.Ibotta-assessment" />
+        <item itemvalue="Python.first_task" />
         <item itemvalue="Python.rw_visual" />
         <item itemvalue="Python.scatter_squares" />
-        <item itemvalue="Python.mpl_squares" />
-        <item itemvalue="Python.Mushroom" />
-        <item itemvalue="Python.admin" />
       </list>
     </recent_temporary>
   </component>
@@ -432,9 +481,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.16361417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.34249085" />
       <window_info id="Structure" order="1" sideWeight="0.50102043" side_tool="true" weight="0.2991453" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -448,14 +497,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32941177" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32857144" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.31428573" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32959184" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.47069597" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.17460318" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -474,38 +523,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Button and some scoreboard functionality (WIP)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/guest_list.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/fav_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/city_country.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/More_classes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -698,20 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Data Visualization/rw_visual.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -723,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <marker date="1569358716865" expanded="true" signature="44:49" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,9 +754,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ibotta Assessment/first_task.py" />
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/.ipynb_checkpoints/VID_game_analysis-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Crash_Course_Coding_Tutorial/Simple_Exercises/Airbnb Data Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/Ibotta-assessment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1570302019755" expanded="true" signature="1031:1036" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/VID_game_analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_Projects/Ibotta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="117" selection-start-line="117" selection-end-line="145" selection-end-column="15" />
         </state>
       </provider>
     </entry>
